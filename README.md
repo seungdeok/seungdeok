@@ -10,7 +10,6 @@
 <h3 align="center"> ⚡️ Channels ⚡️ </h3>
 <p align="center">
   <a href="https://docs.seungdeok.com"><img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white&link=https://docs.seungdeok.com"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/seungdeokjeong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:jeong9132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeong9132@gmail.com"/></a>
 </p>
 
