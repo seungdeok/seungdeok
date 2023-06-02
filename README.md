@@ -13,11 +13,6 @@
   <a href="mailto:jeong9132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeong9132@gmail.com"/></a>
 </p>
 
-<h3 align="center"> 👨🏻‍💻 Posts 👨🏻‍💻 </h3>
-<p align="center">
-  <a href="https://docs.seungdeok.com/project/tech-proposal/github-action-circle-ci">[회고] Github Action에서 Circle CI로 마이그레이션 제안</a>&nbsp
-</p>
-
 <br/>
 
 <p align="center">
