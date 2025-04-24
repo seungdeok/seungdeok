@@ -9,7 +9,7 @@
 
 <h3 align="center"> ⚡️ Channels ⚡️ </h3>
 <p align="center">
-  <a href="https://docs.seungdeok.com"><img src="https://img.shields.io/badge/Tech%20Blog-000?style=flat-square&logo=github&logoColor=white&link=https://docs.seungdeok.com"/></a>&nbsp
+  <a href="https://akk9132.gitbook.io"><img src="https://img.shields.io/badge/Tech%20Blog-000?style=flat-square&logo=github&logoColor=white&link=https://docs.seungdeok.com"/></a>&nbsp
   <a href="mailto:jeong9132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeong9132@gmail.com"/></a>
 </p>
 </p>
